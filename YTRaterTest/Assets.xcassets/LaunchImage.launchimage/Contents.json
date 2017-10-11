@@ -1,0 +1,90 @@
+{
+  "images" : [
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "subtype" : "736h",
+      "filename" : "Splash 7plus P-1.png",
+      "minimum-system-version" : "8.0",
+      "orientation" : "portrait",
+      "scale" : "3x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "subtype" : "736h",
+      "filename" : "Splash 7plus H.png",
+      "minimum-system-version" : "8.0",
+      "orientation" : "landscape",
+      "scale" : "3x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "subtype" : "667h",
+      "filename" : "Splash 7 P-1.png",
+      "minimum-system-version" : "8.0",
+      "orientation" : "portrait",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "filename" : "Splash 7 P.png",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "unassigned" : true,
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "subtype" : "retina4",
+      "filename" : "Splash 7plus P.png",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "unassigned" : true,
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "filename" : "Splash iP 9 P.png",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "filename" : "Splash iP 9 H.png",
+      "minimum-system-version" : "7.0",
+      "orientation" : "landscape",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "filename" : "Splash iP 12 P.png",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "unassigned" : true,
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "filename" : "Splash iP 12 H.png",
+      "minimum-system-version" : "7.0",
+      "orientation" : "landscape",
+      "unassigned" : true,
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
